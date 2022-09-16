@@ -1,0 +1,38 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  cd
+    5  pwb
+    6  ps
+    7  ps aux
+    8  help
+    9  pwd
+   10  ls
+   11  xd
+   12  who
+   13  whoami
+   14  echo $0
+   15  uname
+   16  man uname
+   17  git clone https://github.com/Kanivecs/RTR105-RECV02
+   18  ls -l
+   19  ls -lt
+   20  git clone https://github.com/Kanivecs/RTR105-RECV02 RTR105
+   21  ls -lt
+   22  rmdir
+   23  man rmdir
+   24  --ignore-fail-on-non-empty
+   25  rm -r RTR105
+   26  git clone --ignore-fail-on-non-empty
+   27  git clone https://github.com/Kanivecs/RTR105-RECV02
+   28  rm RTR105-RECV02
+   29  RM -rf RTR105
+   30  rm -rf RTR105-RECv02
+   31  rm -rf RTR105-RECV02
+   32  history
+   33  xd
+   34  history > history_20220916.txt
+--------------------------- 
+
+ls -lt
+
