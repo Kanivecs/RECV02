@@ -2,6 +2,6 @@
 Datormācība (pamatkurss) elektroniskā klade
 
 ## Class01
--001
--002
--003
+- 001
+- 002
+- 003
