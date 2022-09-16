@@ -2,6 +2,13 @@
 Datormācība (pamatkurss) elektroniskā klade
 
 ## Class01
+### Formatēšanas piemēri
+###### Saraksts 1
 - 001
 - 002
 - 003
+
+##### Saraksts 2
+- a
+- b 
+- c
