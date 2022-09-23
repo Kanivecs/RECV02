@@ -1,0 +1,111 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  history
+    5  nano hello-world
+    6  ls -lt
+    7  hello_world
+    8  chmod 744 hello-world 
+    9  ls -lt
+   10  hello-world
+   11  echo $hello-wolrd
+   12  ls-lt
+   13  ls -lt
+   14  echo "Hello, World!"
+   15  echo "lmao"
+   16  ./hello-world
+   17  ./ls
+   18  ./Desktop
+   19  /home/user/hello-world
+   20  pwd
+   21  cp hello-world /bin
+   22  echo $PAT
+   23  echo #PATH
+   24  echo $path
+   25  echo $PATH
+   26  PATH=$PATH
+   27  echo $PATH
+   28  PATH=$PATH:/home/user:~:.
+   29  echo $PATH
+   30  hello-world
+   31  history
+   32  git clone https://github.com/Kanivecs/RTR105
+   33  ls -lt
+   34  nano history
+   35  mv hello-world RTR105/
+   36  ls -lt
+   37  cd RTR105/
+   38  pwd
+   39  ls -lt
+   40  nano git-upload
+   41  git-upload
+   42  ./git upload
+   43  ls -lt
+   44  chmod 744 git-upload 
+   45  history
+   46  history > history_20220923.txt
+   47  ls -lt
+   48  git-upload
+   49  history
+   50  cd
+   51  pwd
+   52  clear
+   53  hello-world
+   54  ls
+   55  ls -lt
+   56  cs RTR105
+   57  cd RTR105/
+   58  hello_world
+   59  hello-world
+   60  cd
+   61  pwd
+   62  rm -rf
+   63  rm -rf RTR105/
+   64  ls -lt
+   65  git clone https://github.com/Kanivecs/RTR105
+   66  cd RTR105/
+   67  hello-world
+   68  ls -lt
+   69  hello_world
+   70  hello-world
+   71  cat git-upload
+   72  nano linux_special_variables_test.sh
+   73  ls -lt
+   74  chmod 744 linux_special_variables_test.sh 
+   75  ls -lt
+   76  linux_special_variables_test.sh
+   77  hello-world
+   78  cs
+   79  cd
+   80  hello-world
+   81  pwd
+   82  hello-world
+   83  cd RTR105/
+   84  ls -lt
+   85  ?
+   86  $?
+   87  git_upload
+   88  git-upload
+   89  nano linux_special_variables_test.sh 
+   90  cat linux_special_variables_test.sh 
+   91  ls -lt
+   92  linux_special_variables_test.sh arg 1 arg2
+   93  cat linux_special_variables_test.sh 
+   94  nano git-upload
+   95  history > history_20220923.txt
+   96  git-upload 05
+   97  nano git-upload
+   98  git-upload 05
+   99  www
+  100* clea
+  101  cs
+  102  cd
+  103  sudo shutdown -n now
+  104  cd RTR105/
+  105  hello-world
+  106  hello-world 
+  107  ./hello-world
+  108  ./git-upload
+  109  ./git-upload 05+
+  110  history > history 20220913.txt
+  111  history > history20220913.txt
