@@ -2,6 +2,7 @@
 git add . # tiek pieteiktas adreses "uzmanīšanai"
 git conifg --global user.name kanivecs
 git config --global user.email kanivecskristaps@gmail.com
-git commit -m "Git_upload"
+#git commit -m "Git_upload_05"
+git commit -m "Git_uplad_$1"
 git push origin main
 

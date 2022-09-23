@@ -44,3 +44,52 @@
    44  chmod 744 git-upload 
    45  history
    46  history > history_20220923.txt
+   47  ls -lt
+   48  git-upload
+   49  history
+   50  cd
+   51  pwd
+   52  clear
+   53  hello-world
+   54  ls
+   55  ls -lt
+   56  cs RTR105
+   57  cd RTR105/
+   58  hello_world
+   59  hello-world
+   60  cd
+   61  pwd
+   62  rm -rf
+   63  rm -rf RTR105/
+   64  ls -lt
+   65  git clone https://github.com/Kanivecs/RTR105
+   66  cd RTR105/
+   67  hello-world
+   68  ls -lt
+   69  hello_world
+   70  hello-world
+   71  cat git-upload
+   72  nano linux_special_variables_test.sh
+   73  ls -lt
+   74  chmod 744 linux_special_variables_test.sh 
+   75  ls -lt
+   76  linux_special_variables_test.sh
+   77  hello-world
+   78  cs
+   79  cd
+   80  hello-world
+   81  pwd
+   82  hello-world
+   83  cd RTR105/
+   84  ls -lt
+   85  ?
+   86  $?
+   87  git_upload
+   88  git-upload
+   89  nano linux_special_variables_test.sh 
+   90  cat linux_special_variables_test.sh 
+   91  ls -lt
+   92  linux_special_variables_test.sh arg 1 arg2
+   93  cat linux_special_variables_test.sh 
+   94  nano git-upload
+   95  history > history_20220923.txt
