@@ -14,5 +14,10 @@ Datormācība (pamatkurss) elektroniskā klade
 - c
 
 Image
-
 ![Attēls](https://upload.wikimedia.org/wikipedia/commons/7/78/Image.jpg)
+
+
+ad
+ad
+a
+da
