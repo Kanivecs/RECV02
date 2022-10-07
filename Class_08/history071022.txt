@@ -1,0 +1,63 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg 1               1
+    4  d
+    5  y
+    6  ttimes
+    7  times
+    8  kclear
+    9  clear
+   10  ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+   11  nano
+   12  fg
+   13  nano
+   14  fg
+   15  kill
+   16  nano
+   17  echo -e "012345\n6789\tabcde\vfghijk\blmnop\rqr"
+   18  /a
+   19  /
+   20  a/
+   21  \a
+   22  /a
+   23  echo "\a"
+   24  git clone https://github.com/Kanivecs/RTR105
+   25  ls -lt
+   26  cd RTR105/
+   27  mkdir Class_08
+   28  cd Class_08
+   29  `
+pwd
+cs
+`
+   30  nano class_08_printf_test.c
+   31  nano class_08_scanf_test.c
+   32  ls -lt
+   33  gcc class_08_scanf_test.c 
+   34  gcc class_08_printf_test.c 
+   35  cat class_08_printf_test.c 
+   36  gcc class_08_printf_test.c -o printf_test.out
+   37  gcc class_08_scanf_test.c  -o scanf_test.out
+   38  ./ printf_test.out 
+   39  ./printf_test.out
+   40  cat git_ignore
+   41  ls -lt
+   42  ./ a.out
+   43  cat a.out
+   44  clear
+   45  ls -lt
+   46  ./printf_test.out 
+   47  ./scanf_test.out 
+   48  ./ scanf_test.out 
+   49  ./scanf_test.out 
+   50  cat scanf_test.out 
+   51  clear
+   52  nano scanf_test.out 
+   53  ls -lt
+   54  cat class_08_scanf_test.c 
+   55  ../Hello-world
+   56  ./ echo Hello_world
+   57  ./ echo Hello-world
+   58  nano class_08_printf_test.c 
+   59  echo kroplis
+   60  history > history071022.txt
