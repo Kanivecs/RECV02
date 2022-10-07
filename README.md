@@ -16,3 +16,5 @@ Datormācība (pamatkurss) elektroniskā klade
 Image
 ![Attēls](https://upload.wikimedia.org/wikipedia/commons/7/78/Image.jpg)
 
+
+N=b^n
