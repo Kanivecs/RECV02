@@ -1,0 +1,62 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox
+    4  git clone https://github.com/Kanivecs/RTR105
+    5  cd 
+    6  cd RTR105/
+    7  ls
+    8  mkdir Class_10
+    9  ls -lt
+   10  cd Class_10
+   11  nano
+   12  nano operations_test.c 
+   13  gcc operations_test.c 
+   14  ./ a.out 
+   15  ./a.out 
+   16  nano
+   17  nano operations_test.c 
+   18  ls -lt
+   19  nano operations_test.c 
+   20  term linux -back <black>
+   21  -back <black>
+   22  nano operations_test.c 
+   23  nano 
+   24  nano operations_test.c 
+   25  gcc
+   26  gcc operations_test.c 
+   27  ./a.out operations_test.c 
+   28  nano operations_test.c 
+   29  gcc operations_test.c 
+   30  ./a.out operations_test.c 
+   31  nano o
+   32  nano operations_test.c 
+   33  gcc operations_test.c 
+   34  ./a.out 
+   35  nano operations_test.c 
+   36  cd..
+   37  cd ..
+   38  mkdir Class_11
+   39  cs Class_11
+   40  cd Class_11
+   41  nano if_tests.c
+   42  gcc if_tests.c 
+   43  nano if_tests.c 
+   44  gcc if_tests.c 
+   45  nano if_tests.c 
+   46  gcc if_tests.c 
+   47  nano if_tests.c 
+   48  gcc if_tests.c 
+   49  ./a.out 
+   50  nano if_tests.c 
+   51  gcc if_tests.c 
+   52  ./a.out 
+   53  nano if_tests.c 
+   54  gcc if_tests.c 
+   55  ./a.out 
+   56  history > history21102002.txt
+   57  cd ..
+   58  gitupload
+   59  ./git upload
+   60  ./gitupload
+   61  ./git-upload
+   62  history > history21102020.txt
