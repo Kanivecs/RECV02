@@ -1,0 +1,87 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/Kanivecs/RTR105
+    4  cd RTR105/
+    5  ls -lt
+    6  pwd
+    7  mkdir Class_13
+    8  cd Class_13
+    9  nano user_functions_test.c
+   10  gcc user_functions_test.c
+   11  nano user_functions_test.c
+   12  gcc user_functions_test.c 
+   13  nano user_functions_test.c 
+   14  gcc user_functions_test.c 
+   15  nano user_functions_test.c 
+   16  gcc user_functions_test.c 
+   17  a.out user_functions_test.c 
+   18  a.out
+   19  ./a.out
+   20  nano user_functions_test.c 
+   21  gcc user_functions_test.c 
+   22  nano user_functions_test.c 
+   23  gcc user_functions_test.c 
+   24  ./a.out
+   25  4
+   26  nano user_functions_test.c 
+   27  gcc user_functions_test.c 
+   28  nano user_functions_test.c 
+   29  gcc user_functions_test.c 
+   30  nano user_functions_test.c 
+   31  gcc user_functions_test.c 
+   32  nano use
+   33  nano user_functions_test.c 
+   34  gcc user_functions_test.c 
+   35  nano use
+   36  nano user_functions_test.c 
+   37  gcc user_functions_test.c 
+   38  nano user_functions_test.c 
+   39  gcc user_functions_test.c 
+   40  nano user_functions_test.c 
+   41  gcc user_functions_test.c 
+   42  nano user_functions_test.c 
+   43  gcc user_functions_test.c 
+   44  nano user_functions_test.c 
+   45  gcc user_functions_test.c 
+   46  ./a.out user_functions_test.c 
+   47  2
+   48  ./a.out
+   49  cp user_functions_test.c 
+   50  ls
+   51  ls -lt
+   52  cp user_functions_test.c user_functions_test_better_style.c 
+   53  ls -lt
+   54  nano user_functions_test_better_style.c 
+   55  gcc user_functions_test_better_style.c 
+   56  ./a.out
+   57  nano main.c
+   58  nano foo.h
+   59  nono foo.h
+   60  nano foo.h
+   61  nano foo.c
+   62  gcc foo.h
+   63  gcc foo.c
+   64  gcc main.c
+   65  gcc -wall -c foo.c
+   66  gcc Wall -c foo.c
+   67  ls -lt
+   68  nono foo.h.gch 
+   69  gcc Wall -c foo.h
+   70  gcc -Wall -c foo.h 
+   71  gcc -Wall -c foo.c
+   72  gcc -Wall -c main.c
+   73  ls -lt
+   74  gcc -o result.out main.o foo.o
+   75  ls -lt
+   76  ./result.out
+   77  rm foo.h.gch
+   78  ls -lt
+   79  history > history04112022
+   80  git.upload
+   81  ls-lt
+   82  ..cd
+   83  cd..
+   84  cc RTR
+   85  cd ..
+   86  ls -lt
+   87  history > 04112022.txt
