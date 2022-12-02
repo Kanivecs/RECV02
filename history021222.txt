@@ -1,0 +1,37 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git upload https://github.com/Kanivecs/RTR105
+    4  cd RTR105
+    5  git clone https://github.com/Kanivecs/RTR105
+    6  cd RTR105/
+    7  ls _lt
+    8  ls -lt
+    9  mkdir darbi
+   10  ls -lt
+   11  cd darbi
+   12  mkdir 1ld_series
+   13  ls -lt
+   14  cd 1ld_series/
+   15  nano
+   16  nano TaylorSeries.c
+   17  nano .TaylorSeries.c.swp 
+   18  ls -lt 
+   19  nano TylorSeries.c
+   20  nano TylorSeries.c 
+   21  nano TylorSeries.c
+   22  gcc TylorSeries.c -lm
+   23  nano TylorSeries.c 
+   24  gcc TylorSeries.c -lm
+   25  ada
+   26  gcc TylorSeries.c -lm
+   27  nano TylorSeries.c 
+   28  gcc TylorSeries.c -lm
+   29  ls -lt
+   30  gcc TylorSeries.c -lm
+   31  cd ..
+   32  git_upload
+   33  ls_lt
+   34  ls -lt
+   35  git-upload
+   36  .. git-upload
+   37  history > history021222.txt
