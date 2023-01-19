@@ -5,7 +5,7 @@ int main(void)
   int num1, num2, num3;
   char order[10];
 
-  printf("Ievadi trīs decimālus skaitļus: ");
+  printf("Ievadi trīs decimālskaitļus: ");
   scanf("%d%d%d", &num1, &num2, &num3);
 
   printf("Ievadi, kādā secībā tu vēlies šos skaitļus - augošā vai dilstošā :  ");
