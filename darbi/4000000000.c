@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main (){
+int main ()
+{
   unsigned long long int  a, b, result;
   printf(" Ievadi divus skaitļus! \n" );
   scanf("%llu %llu" , &a , &b);
