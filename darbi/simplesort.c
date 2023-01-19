@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void)
+{
   int num1, num2, num3;
   char order[10];
 
@@ -9,36 +10,45 @@ int main(void) {
 
   printf("Ievadi, kādā secībā tu vēlies šos skaitļus - augošā vai dilstošā :  ");
   scanf("%s", order);
-  if (strcmp(order, "augošā") == 0) {
+  if (strcmp(order, "augošā") == 0)
+  {
     int temp;
-    if (num1 > num2) {
+    if (num1 > num2) 
+    {
       temp = num1;
       num1 = num2;
       num2 = temp;
     }
-    if (num1 > num3) {
+    if (num1 > num3) 
+    {
       temp = num1;
       num1 = num3;
       num3 = temp;
     }
-    if (num2 > num3) {
+    if (num2 > num3) 
+    {
       temp = num2;
       num2 = num3;
       num3 = temp;
     }
-  } else if (strcmp(order, "dilstošā") == 0) {
+  } 
+  else if (strcmp(order, "dilstošā") == 0)
+  {
     int temp;
-    if (num1 < num2) {
+    if (num1 < num2) 
+    {
       temp = num1;
       num1 = num2;
       num2 = temp;
     }
-    if (num1 < num3) {
+    if (num1 < num3) 
+    {
       temp = num1;
       num1 = num3;
       num3 = temp;
     }
-    if (num2 < num3) {
+    if (num2 < num3) 
+    {
       temp = num2;
       num2 = num3;
       num3 = temp;
